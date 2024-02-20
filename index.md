@@ -12,4 +12,4 @@ print('we can do it')
 
 - [x] Mascot
 - [x] Code
-- [x] List.
+- [ ] List.
