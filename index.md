@@ -7,3 +7,9 @@
 ```
 print('we can do it')
 ```
+
+## List
+
+- [x] Mascot
+- [x] Code
+- [x] List.
